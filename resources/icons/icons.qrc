@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../styles/academic_blue.json</file>
+        <file>../styles/nature_green.json</file>
+        <file>../styles/vibrant_orange.json</file>
+    </qresource>
+</RCC>

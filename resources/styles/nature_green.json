@@ -1,0 +1,12 @@
+{
+    "name": "自然绿",
+    "description": "清新自然的绿色主题",
+    "nodeBackgroundColor": "#D0F0C0",
+    "nodeBorderColor": "#505050",
+    "nodeTextColor": "#000000",
+    "edgeColor": "#646464",
+    "selectionColor": "#228B22",
+    "hoverColor": "#228B2266",
+    "backgroundColor": "#FAFAFA",
+    "gridColor": "#DCDCDC"
+}

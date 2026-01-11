@@ -1,0 +1,12 @@
+{
+    "name": "学术蓝",
+    "description": "适合学术和教育的蓝色主题",
+    "nodeBackgroundColor": "#C8DCF0",
+    "nodeBorderColor": "#505050",
+    "nodeTextColor": "#000000",
+    "edgeColor": "#646464",
+    "selectionColor": "#0078D7",
+    "hoverColor": "#0078D766",
+    "backgroundColor": "#FAFAFA",
+    "gridColor": "#DCDCDC"
+}

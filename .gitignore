@@ -1,0 +1,72 @@
+# 构建目录
+build/
+build-*/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# Qt
+*.autosave
+*.qmlc
+*.jsc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.pro.user
+
+# 编译输出
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+*~
+.*.swp
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# 测试
+test_results/
+coverage/
+
+# 文档
+doxygen/
+
+# 存储目录
+storage/
+
+# 文档目录
+docs/

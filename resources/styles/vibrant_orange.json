@@ -1,0 +1,12 @@
+{
+    "name": "活力橙",
+    "description": "充满活力的橙色主题",
+    "nodeBackgroundColor": "#FFD700",
+    "nodeBorderColor": "#505050",
+    "nodeTextColor": "#000000",
+    "edgeColor": "#646464",
+    "selectionColor": "#FF8C00",
+    "hoverColor": "#FF8C0066",
+    "backgroundColor": "#FAFAFA",
+    "gridColor": "#DCDCDC"
+}
